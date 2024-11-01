@@ -1,4 +1,3 @@
-#!/usr/bin/env python
 # -*- coding: latin1 -*-
 
 #Programa que leia a idade de uma pessoa expressa em dias e mostre-a expressa em anos, meses e dias.
