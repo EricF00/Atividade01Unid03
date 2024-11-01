@@ -13,9 +13,9 @@ def verificaPrimo(num):
 
     return bPrimo
 
-valueInput = int(input("Digite um número inteiro para verificar se é primo: "))
+valueInput = int(input("Digite um número inteiro: "))
 primo = verificaPrimo(valueInput)
 if primo :
-    print(f"{valueInput} é primo!")
+    print(f"O número {valueInput} é primo!")
 else:
-    print(f"{valueInput} não é primo!")
+    print(f"O número {valueInput} não é primo!")
